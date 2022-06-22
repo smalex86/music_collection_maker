@@ -1,3 +1,3 @@
 # music_collection_maker
 
-Script to make music collection from playlists
+Script to make music collection from playlists. Draft.
